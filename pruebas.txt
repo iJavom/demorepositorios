@@ -2,4 +2,9 @@ J
 JAVOM
 J
 J
+<<<<<<< HEAD
 WALTHER
+=======
+J
+Arnold estuvo Aqui
+>>>>>>> 0801b0614a816d4e390a41353c4603baf5c14b44
